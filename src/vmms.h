@@ -1,7 +1,4 @@
 /*	Elton Vinh
-Project 1
-CS149
-Frank Butt
 */
 /* 
   vmms.h - This file contains the function prototype for the memory functions.
