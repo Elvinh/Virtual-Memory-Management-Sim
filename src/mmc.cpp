@@ -1,7 +1,4 @@
 /*	Elton Vinh
-	Project 1
-	CS149
-	Frank Butt
 */
 // mmc.cpp - memory console driver
 
