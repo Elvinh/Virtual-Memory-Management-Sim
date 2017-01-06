@@ -1,7 +1,4 @@
 /*	Elton Vinh
-Project 1
-CS149
-Frank Butt
 */
 /* 
   vmms.cpp - This file contains the code for each of the memory functions as well as initialization of the "shared" memory.
